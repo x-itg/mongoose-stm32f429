@@ -1,0 +1,6 @@
+Build/
+obj/
+firmware.bin
+firmware.elf
+SW4STM32/STM32F429ZI_NUCLEO_144/.settings
+st-link_gdbserver_log.txt
